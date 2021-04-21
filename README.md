@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @k0styk(Konstantin R)
+- 👀 I’m interested in programming and 3D printing
+- 🌱 I’m currently learning Node.js and React
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://t.me/kostyk
